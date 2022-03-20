@@ -1,1 +1,1 @@
-# [twa.re](https://twa.re/git)
+# [twa.re](https://twa.re/gh)
