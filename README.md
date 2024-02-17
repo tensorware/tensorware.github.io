@@ -1,1 +1,1 @@
-# [twa.re](https://twa.re/gh)
+# [twa.re](https://twa.re)
