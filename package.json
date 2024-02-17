@@ -4,6 +4,6 @@
         "build": "node scripts/build.js"
     },
     "dependencies": {
-        "staticrypt": "^2.0.3"
+        "staticrypt": "^2.6.0"
     }
 }
